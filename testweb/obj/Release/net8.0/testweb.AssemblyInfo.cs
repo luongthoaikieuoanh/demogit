@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-testweb-031cb471-a7de-418c-b51e-a5530df72b0f")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("testweb")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98c5422d32b863bf1072178836abff7f20020ae6")]
 [assembly: System.Reflection.AssemblyProductAttribute("testweb")]
