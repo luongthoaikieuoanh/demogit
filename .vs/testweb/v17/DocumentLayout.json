@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\testweb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35C70155-C8DE-43DF-9EF2-BC1BEC568E2E}|testweb\\testweb.csproj|c:\\users\\pc\\source\\repos\\testweb\\testweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C70155-C8DE-43DF-9EF2-BC1BEC568E2E}|testweb\\testweb.csproj|solutionrelative:testweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C70155-C8DE-43DF-9EF2-BC1BEC568E2E}|testweb\\testweb.csproj|c:\\users\\pc\\source\\repos\\testweb\\testweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35C70155-C8DE-43DF-9EF2-BC1BEC568E2E}|testweb\\testweb.csproj|solutionrelative:testweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C70155-C8DE-43DF-9EF2-BC1BEC568E2E}|testweb\\testweb.csproj|c:\\users\\pc\\source\\repos\\testweb\\testweb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C70155-C8DE-43DF-9EF2-BC1BEC568E2E}|testweb\\testweb.csproj|solutionrelative:testweb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C70155-C8DE-43DF-9EF2-BC1BEC568E2E}|testweb\\testweb.csproj|c:\\users\\pc\\source\\repos\\testweb\\testweb\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35C70155-C8DE-43DF-9EF2-BC1BEC568E2E}|testweb\\testweb.csproj|solutionrelative:testweb\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C70155-C8DE-43DF-9EF2-BC1BEC568E2E}|testweb\\testweb.csproj|c:\\users\\pc\\source\\repos\\testweb\\testweb\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35C70155-C8DE-43DF-9EF2-BC1BEC568E2E}|testweb\\testweb.csproj|solutionrelative:testweb\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C70155-C8DE-43DF-9EF2-BC1BEC568E2E}|testweb\\testweb.csproj|c:\\users\\pc\\source\\repos\\testweb\\testweb\\views\\shared\\_nabar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35C70155-C8DE-43DF-9EF2-BC1BEC568E2E}|testweb\\testweb.csproj|solutionrelative:testweb\\views\\shared\\_nabar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C70155-C8DE-43DF-9EF2-BC1BEC568E2E}|testweb\\testweb.csproj|c:\\users\\pc\\source\\repos\\testweb\\testweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C70155-C8DE-43DF-9EF2-BC1BEC568E2E}|testweb\\testweb.csproj|solutionrelative:testweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C70155-C8DE-43DF-9EF2-BC1BEC568E2E}|testweb\\testweb.csproj|c:\\users\\pc\\source\\repos\\testweb\\testweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35C70155-C8DE-43DF-9EF2-BC1BEC568E2E}|testweb\\testweb.csproj|solutionrelative:testweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C70155-C8DE-43DF-9EF2-BC1BEC568E2E}|testweb\\testweb.csproj|c:\\users\\pc\\source\\repos\\testweb\\testweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35C70155-C8DE-43DF-9EF2-BC1BEC568E2E}|testweb\\testweb.csproj|solutionrelative:testweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\testweb\\testweb\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "testweb\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\testweb\\testweb\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "testweb\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T02:00:33.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\testweb\\testweb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "testweb\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\testweb\\testweb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "testweb\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAAB8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T06:26:41.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\testweb\\testweb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "testweb\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\testweb\\testweb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "testweb\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAACImZmZmVk6wBQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T06:58:52.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\testweb\\testweb\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "testweb\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\testweb\\testweb\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "testweb\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAACIAAACAmJmZmZkOwB0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T07:00:27.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Nabar.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\testweb\\testweb\\Views\\Shared\\_Nabar.cshtml",
+              "RelativeDocumentMoniker": "testweb\\Views\\Shared\\_Nabar.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\testweb\\testweb\\Views\\Shared\\_Nabar.cshtml",
+              "RelativeToolTip": "testweb\\Views\\Shared\\_Nabar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T06:41:37.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\testweb\\testweb\\Views\\Shared\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "testweb\\Views\\Shared\\_Footer.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\testweb\\testweb\\Views\\Shared\\_Footer.cshtml",
+              "RelativeToolTip": "testweb\\Views\\Shared\\_Footer.cshtml",
+              "ViewState": "AQIAAD0AAACAmZmZmdkqwE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T06:52:34.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\testweb\\testweb\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "testweb\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\testweb\\testweb\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "testweb\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T06:29:11.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\testweb\\testweb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "testweb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\testweb\\testweb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "testweb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAsAAAAAKDMzM7MiwCsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-02T06:30:22.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\testweb\\testweb\\Program.cs",
+              "RelativeDocumentMoniker": "testweb\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\testweb\\testweb\\Program.cs",
+              "RelativeToolTip": "testweb\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T06:23:39.301Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
